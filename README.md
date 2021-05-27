@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mike Simpson (@mdsimpson42)
+- 👀 I’m interested in Data Visualisation, Virtual Simulation, Gamification
+- 📫 How to reach me: https://rse.ncldata.dev/mike-simpson
+- :arrow_right: Personal Site: https://mdsimpson.co.uk/
