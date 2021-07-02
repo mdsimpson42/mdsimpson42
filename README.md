@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mike Simpson (@mdsimpson42)
 - 👀 I’m interested in Game Development, Data Visualisation, Virtual Simulation, Gamification (i.e. in Education/Healthcare)
 - :arrow_forward: Personal Site: https://mdsimpson.co.uk/
-- :earth_africa: More: <a href="https://linktr.ee/mdsimpson" target="_blank">https://linktr.ee/mdsimpson</a>
+- :earth_africa: More: https://linktr.ee/mdsimpson
