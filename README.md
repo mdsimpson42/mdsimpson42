@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mike Simpson ([@mdsimpson42](https://github.com/mdsimpson42))
 - 👀 I’m interested in Game Development, Data Visualisation, Virtual Simulation, Gamification (i.e. in Education/Healthcare)
+- :computer: Research Software Engineer at [Newcastle University](https://rse.ncldata.dev/mike-simpson). 
 - :arrow_forward: Personal Site: https://mdsimpson.co.uk/
 - :earth_africa: More: https://linktr.ee/mdsimpson
