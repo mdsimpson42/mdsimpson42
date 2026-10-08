@@ -1,4 +1,4 @@
-👋 Hi, I’m Mike Simpson ([@mdsimpson42](https://github.com/mdsimpson42)) - Professional nerd, father, photographer, gamer, aspiring writer, sci-fi addict and code monkey.
+👋 Hi, I’m Mike Simpson ([@mdsimpson42](https://github.com/mdsimpson42)).
 -  👀 I’m interested in Game Development, Data Visualisation, Virtual Simulation, and Gamification (i.e. in Education/Healthcare).
 
 ## My Background
